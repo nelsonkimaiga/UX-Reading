@@ -8,6 +8,15 @@ Therefore UX design design ensures that the user is able to figure what to do as
 
 #An Important characteristic of Design;
 Exploitation of natural properties or people an the surrounding environment. Design should be able to exploit natural relationships and natural constraints and thus should be able to operate without any instructions.
+
+#Some Principles of Design;
+1. Use of both knowledge in the world and knowledge in the head.
+2. Simplify the structure of tasks.
+3. Make things visible: bridge the gulfs of Execution and Evaluation.
+4. Get the mappings right.
+5. Exploit the power of constraints, both natural and artificial.
+6. Design for error.
+7. When all else fails, standardize.
  
 
 
